@@ -1,6 +1,8 @@
-// Creer une fonction appelé squareNumber qui va prendre un numero en parmetre. Retourne le carré de ce numero et stocker le resulat dans une variable 
+// 1) Creer une fonction appelé squareNumber qui va prendre un numero en parmetre. Faites un console.log du nombre au carré
 
-//2)Creer une fonction appelé testStrLength qui prend un tableau comme parametre. Cette fonction testera si la longuer de la chaine stocké dans le tableau sera  supperieur a 5.  On va ensuite (avec la creation d'une variable), stocker le nombre de chaines de caracteres qui ont une longeur supperieur a 5 et on va devoir acceder a cette information en dehors de notre fonction
+//2) Creer une fonction qui prendra en parametre une chaine de caracteres. Si la chaine de caracteres est superrieur a 10,ecrivez dans un console.log("la chaine est superieur a 10" et retrouner true,sinon ecrivez, "la chaine est inferieur a 10" et retourner false. Stockez la valeur retourner par cette fonction dans une variable et faites un console.log de la variable ) 
+
+//2)Creer une fonction appelé testStrLength qui prend un tableau comme parametre. Cette fonction testera si la longuer de la chaine stocké dans le tableau sera  supperieur a 5.  On va ensuite (avec la creation d'une variable), stocker le nombre de chaines de caracteres qui ont une longeur supperieur a 5 et on va devoir acceder a cette information en dehors de notre fonction. (Quand vous faites appel a la fonction, utilisez la variable stringArray que je viens de creer ci dessus)
 var stringArray=["Pizza","Steak","Burger","oeuf mayo","Cantal","Emmental","Vin"];
 
 // BONUS-------------------------------------------------
