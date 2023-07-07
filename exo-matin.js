@@ -1,5 +1,5 @@
 //1) Affichez, via un console.log, chaque elemnt de notre tableau de maniere dynamique (hint: Une boucle!)
- var myArray=["first","second","third","fourth","fifth","sixth","seventh"];
+ var myArray=["first","second","third","fourth","fifth","sixth","seventh","another!"];
 
 //2) Avec nos listes de restaruants, affichez en une seul ligne, pour chaque restaurant, "le restaraunt {mon_resto} a {ma_quantite} d'offres sur son menu"
 var restaruants=[{name:"My fast food",items:["Burgers","Kebab","Cookies","Beer"]},{name:"La brasserie du coin",items:["Ouef mayo","Foie gras","Entrecote","Vin rouge","vin blanc"]},{name:"La boufe orientale",items:["houmous","falafel","Schawaram","Lebaneh"]}];
