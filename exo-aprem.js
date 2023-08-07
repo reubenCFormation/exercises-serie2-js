@@ -1,6 +1,6 @@
 //a) Faites en sorte de voir apparaitre dans la console la phrase suivante: "Ma premiere fonction se declenche!"
 function myFirstFunction(){
-    console.log("Ma premiere fonction se declenche!");
+    console.log("Ma toute premiere fonction se declenche!");
 }
 
 
