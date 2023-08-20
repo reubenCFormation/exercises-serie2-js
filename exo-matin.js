@@ -14,7 +14,7 @@ var myAnimalsObj=[{name:"Mammal",animals:["Dog","Cat","Lion","Wolf","Humans"]},{
 //b)Faites en sorte d'afficher chacun de nos animaux qui se trouve dans la clé animals sur chacun de nos objets (pensez a une boucle imbriqué!)
 
 // Bonus 1
-//5) Avec ce tableau d'objets, on aura une clé "animals" dans notre tableau qui sera un tableau, si la clé animals a plus de 3 elements, affichez les informations de notre objet. Affichez le nom de la classe (la clé name) et listez tous les animaux qui appartiennent a cette classe Par exemple, "liste de repitles" et en dessous tous nos reptiles!
+//5)  Si la clé animals a plus de 3 elements, affichez les informations de notre objet. Affichez le nom de la classe (la clé name) et listez tous les animaux qui appartiennent a cette classe Par exemple, "liste de repitles" et en dessous tous nos reptiles!
 
 
 //6) Toujours avec le meme tableau (myAnimalsObj), construisez un nouveau tableau et, encore une fois, si nous avons plus de 3 animaux dans notre classe (representé par la clé name), alimenter ce nouveau tableau avec l'objet actuelle qui contient plus de 3 animaux
