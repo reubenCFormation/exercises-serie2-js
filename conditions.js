@@ -1,6 +1,6 @@
 
 
-//1) Creer une variable que vous allez appeler number et donnez lui la valeur 200. Creer une autre variable que vous allez appeler anotherNumber et donnez lui une valeur qui sera inferieur a 200.  Creer une condition pour pouvoir tester si $number et supperieur a $anotherNumber et affichez qq chose dans un console.log si c'est le cas 
+//1) Creer une variable que vous allez appeler number et donnez lui la valeur 200. Creer une autre variable que vous allez appeler anotherNumber et donnez lui une valeur qui sera inferieur a 200.  Creer une condition pour pouvoir tester si number et supperieur a anotherNumber et affichez qq chose dans un console.log si c'est le cas 
 
 //2) Creer une variable que vous allez appeler myName et donnez lui la valeur que vous souhatiez. Enchainer des ifs suivi par des else if pour verifier que notre variable myName est egale a ce que vous aviez choisi et enfin suivi par un else. Faites en sorte de faire que nous allons tomber dans le else
 
